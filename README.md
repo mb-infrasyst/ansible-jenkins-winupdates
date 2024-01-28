@@ -1,5 +1,3 @@
-# ansible-jenkins-winupdates
-
 # 🚀 Ansible-Jenkins-WinUpdates
 
 Welcome to the Ansible-Jenkins-WinUpdates repository! 
