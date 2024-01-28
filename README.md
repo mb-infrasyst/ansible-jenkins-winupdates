@@ -25,6 +25,6 @@ Rest assured, we take security seriously. Certain sensitive values are safeguard
 
 Get ready to conquer Windows Server updates like a pro. Let's automate and elevate!
 
-🔗 Check out our [Wiki]([https://link-to-your-wiki-here](https://github.com/mb-infrasyst/ansible-jenkins-winupdates/wiki/Wiki-%E2%80%90-Windows-servers-updates-with-Ubuntu,-Ansibel-and-Jenkins)https://github.com/mb-infrasyst/ansible-jenkins-winupdates/wiki/Wiki-%E2%80%90-Windows-servers-updates-with-Ubuntu,-Ansibel-and-Jenkins) for detailed instructions!
+🔗 Check out our Wiki for detailed instructions!
 
-🔥 Happy automating!
+🔥 Happy updating!
